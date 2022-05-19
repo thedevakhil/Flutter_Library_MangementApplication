@@ -5,7 +5,7 @@ import 'package:my_library/Teacher/view_all_students_admin.dart';
 import 'Student.dart';
 
 class Services {
-  static const ROOT = 'http://172.20.10.2/lib/employee_actions.php';
+  static const ROOT = 'http://172.20.10.2/lib/employee_actions.php';//finding the url instructions are provided in the main screen on git ,please find yourcustom path
   static const _GET_ALL_ACTION = 'GET_ALL';
   static const _ADD_EMP_ACTION = 'ADD_EMP';
   static const _UPDATE_EMP_ACTION = 'UPDATE_EMP';
