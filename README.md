@@ -3,6 +3,10 @@
 A new Flutter application.
 
 ## Getting Started
+## Foloow the instructions
+1. export the issued.sql in XAMPP admin tab
+2. get your ip address by running cmd and enter the command "ipconfig"
+3. get the ip and replace it in lib/services.
 
 This project is a starting point for a Flutter application.
 
