@@ -1,4 +1,4 @@
-# my_library
+# Library Mangement Sytem
 
 A new Flutter application.
 
